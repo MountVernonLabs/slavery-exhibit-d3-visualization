@@ -1,0 +1,437 @@
+id,id.1,relationship
+Aaron A,Grace E,Child
+Abram A,Nancy F,Spouse
+Agnes A,Sambo A,Spouse
+Agnes B,Ben E,Child
+Agnes B,Betty C,Sibling
+Agnes B,Joan A,Child
+Agnes B,Simon B,Sibling
+Agnes B,Will B,Spouse
+Alce B,Kate B,Suspected Child
+Alce B,Molly B,Suspected Sibling
+Alce B,Sam A,Spouse
+Alce B,Virgin A,Suspected Sibling
+Alce B,Will E,Suspected Sibling
+Alce C,Charles Freeman,Spouse
+Alce C,Doll A,Suspected Child
+Alce C,Doll C,Suspected Sibling
+Alce C,George H,Suspected Sibling
+Alce C,Lucy C,Suspected Sibling
+Alce C,Perished Child - Doll (b. 1759),Suspected Sibling
+Alce C,Peter C,Suspected Sibling
+Alce C,Will C,Suspected Sibling
+Alce F,Hercules A,Suspected Spouse
+Alla A,Grace A,Sibling
+Alla A,Isaac A,Child
+Alla A,James B,Spouse
+Alla A,Kitty A,Child
+Alla A,Letty A,Sibling
+Alla A,Lucy E,Sibling
+Alla A,Mima A,Sibling
+Alla A,Nancy E,Sibling
+Alla A,Sinah A,Sibling
+Ambrose B,Cornelia A,Child
+Ambrose B,Paschall A,Child
+Andrew A,Betty Davis,Child
+Anna A,Alce C,Child
+Anna A,Charles Freeman,Child
+Anna A,Christopher Sheels,Sibling
+Anna A,Judy B,Sibling
+Anna A,Viner A,Sibling
+Anteno A,Couta A,Child
+Anthony B,Betty N,Spouse
+Austin A,Betty M,Child
+Austin A,Delphy A,Sibling
+Austin A,Oney Judge,Sibling
+Austin A,Unknown Person K,Spouse
+Barbara B,Anteno A,Sibling
+Barbara B,Couta A,Child
+Barbary A,Jesse B,Sibling
+Barbary A,Kate D,Sibling
+Barbary A,Lawrence B,Sibling
+Barbary A,Sall Twine,Child
+Beck B,Betty A,Child
+Beck B,Bill Langston,Sibling
+Beck B,Gideon A,Sibling
+Beck B,Godfrey A,Sibling
+Beck B,Hanson A,Sibling
+Beck B,John C,Sibling
+Beck B,Lucretia A,Sibling
+Ben B,Sinah A,Spouse
+Ben C,Ben D,Child
+Ben C,Peg B,Child
+Ben C,Penny A,Sibling
+Ben D,Peg B,Spouse
+Ben E,Joan A,Suspected Spouse
+Ben E,Peg C,Spouse
+Ben Hubbard,Boatswain A,Child
+Ben Hubbard,Boatswain B,Sibling
+Ben Hubbard,Harry A,Sibling
+Ben Hubbard,Lawrence A,Sibling
+Ben Hubbard,Linny A,Sibling
+Ben Hubbard,Matilda A,Child
+Ben Hubbard,Penny A,Spouse
+Betty B,Doll C,Child
+Betty B,Doll D,Sibling
+Betty B,Jack A,Sibling
+Betty B,Natt B,Child
+Betty B,Natt C,Sibling
+Betty C,Ben E,Child
+Betty C,Joan A,Child
+Betty C,Simon B,Sibling
+Betty D,Daniel D,Sibling
+Betty D,Delia B,Child
+Bill Langston,Betty A,Child
+Bill Langston,Gideon A,Sibling
+Bill Langston,Godfrey A,Sibling
+Bill Langston,Hanson A,Sibling
+Bill Langston,John C,Sibling
+Bill Langston,Lucretia A,Sibling
+Billy D,Charity B,Child
+Billy D,Dick B,Child
+Billy D,Elly A,Sibling
+Billy D,Hannah F,Sibling
+Billy D,Sarah Flatfoot,Sibling
+Boatswain A,Matilda A,Spouse
+Boatswain B,Boatswain A,Child
+Boatswain B,Harry A,Sibling
+Boatswain B,Lawrence A,Sibling
+Boatswain B,Linny A,Sibling
+Boatswain B,Matilda A,Child
+Breechy A,Ruth A,Spouse
+Brunswick A,Moll B,Spouse
+Brunswick B,Brunswick A,Child
+Brunswick B,Moll B,Child
+Caroline A,Peter Hardman,Spouse
+Cecelia A,Agnes A,Child
+Cecelia A,Heuky A,Sibling
+Cecelia A,Sambo A,Child
+Charity B,Dick B,Spouse
+Charles A,Fanny A,Spouse
+Christopher Sheels,Alce C,Child
+Christopher Sheels,Charles Freeman,Child
+Christopher Sheels,Judy B,Sibling
+Christopher Sheels,Viner A,Sibling
+Crager A,Ben E,Child
+Crager A,Peg C,Child
+Cynthia A,Daniel C,Sibling
+Cynthia A,Suckey C,Child
+Cyrus A,Lucy D,Spouse
+Cyrus A,Sall A,Child
+Daniel A,Doll B,Child
+Daniel A,James B,Sibling
+Daniel A,Milly B,Sibling
+Daniel A,Patience A,Sibling
+Daniel A,Patt A,Sibling
+Daniel C,Suckey C,Child
+Daniel D,Delia B,Child
+Daniel F,George J,Sibling
+Daniel F,Jenny F,Sibling
+Daniel F,Lucy A,Child
+Daniel F,Natt A,Child
+Daphne B,Simms A,Spouse
+Daphne E,Daphne C,Child
+Daphne E,Hannah C,Sibling
+Daphne E,Joe G,Sibling
+Daphne E,Lucy D,Sibling
+Daphne E,Moses B,Sibling
+Darcus A,James A,Spouse
+Darcus C,Phillis C,Child
+Davy A,Edy A,Spouse
+Davy Gray,Molly C,Spouse
+Delia A,Alce F,Child
+Delia A,Eve A,Sibling
+Delia A,Hercules A,Child
+Delia A,Richmond A,Sibling
+Delphy A,Betty M,Child
+Delphy A,Oney Judge,Sibling
+Doll C,Doll A,Child
+Doll C,George H,Sibling
+Doll C,Lucy C,Sibling
+Doll C,Natt B,Spouse
+Doll C,Perished Child - Doll (b. 1759),Sibling
+Doll C,Peter C,Sibling
+Doll C,Will C,Sibling
+Doll D,Doll C,Child
+Doll D,Jack A,Sibling
+Doll D,Natt B,Child
+Doll D,Natt C,Sibling
+Dolshy A,Joe A,Spouse
+Edmund A,Frank Lee,Child
+Edmund A,Lucy C,Child
+Edmund A,Mike A,Sibling
+Edmund A,Phil A,Sibling
+Elly A,Charity B,Child
+Elly A,Dick B,Child
+Elly A,Hannah F,Sibling
+Elly A,Sarah Flatfoot,Sibling
+Esther A,Johnny A,Spouse
+Eve A,Alce F,Child
+Eve A,Hercules A,Child
+Eve A,Richmond A,Sibling
+Forrester A,Letty B,Sibling
+Forrester A,Nathan A,Child
+Forrester A,Peg A,Child
+Frank Lee,Lucy C,Spouse
+Frank Lee,William Lee,Sibling
+Gabriel A,Judy C,Spouse
+George A,Lydia A,Spouse
+George H,Doll A,Child
+George H,Lucy C,Sibling
+George H,Perished Child - Doll (b. 1759),Sibling
+George H,Peter C,Sibling
+George H,Will C,Sibling
+George I,Phoebe B,Child
+George J,Lucy A,Child
+George J,Natt A,Child
+Gideon A,Betty A,Child
+Gideon A,Godfrey A,Sibling
+Gideon A,Hanson A,Sibling
+Gideon A,John C,Sibling
+Gideon A,Lucretia A,Sibling
+Godfrey A,Betty A,Child
+Godfrey A,Hanson A,Sibling
+Godfrey A,John C,Sibling
+Godfrey A,Lucretia A,Sibling
+Godfrey A,Mima A,Spouse
+Grace A,Isaac A,Child
+Grace A,Kitty A,Child
+Grace A,Letty A,Sibling
+Grace A,Lucy E,Sibling
+Grace A,Mima A,Sibling
+Grace A,Nancy E,Sibling
+Grace A,Sinah A,Sibling
+Gunner A,Judy A,Spouse
+Hannah B,Ned B,Spouse
+Hannah C,Daphne C,Child
+Hannah C,Joe G,Sibling
+Hannah C,Lucy D,Sibling
+Hannah C,Moses B,Sibling
+Hannah D,Morris A,Spouse
+Hannah F,Charity B,Child
+Hannah F,Dick B,Child
+Hannah F,Sarah Flatfoot,Sibling
+Hanson A,Betty A,Child
+Hanson A,John C,Sibling
+Hanson A,Lucretia A,Sibling
+Harry A,Boatswain A,Child
+Harry A,Lawrence A,Sibling
+Harry A,Linny A,Sibling
+Harry A,Matilda A,Child
+Henry A,Joe C,Child
+Henry A,Sall Brass,Child
+Heuky A,Agnes A,Child
+Heuky A,Sambo A,Child
+Isaac A,Kitty A,Spouse
+Isaac C,Rose B,Child
+Isbel A,Sarah K,Child
+Jack A,Doll C,Child
+Jack A,Natt B,Child
+Jack A,Natt C,Sibling
+Jack C,Molly D,Spouse
+Jack D,Grace B,Spouse
+Jack I,Priscilla B,Spouse
+Jacob A,Flora A,Child
+Jacob A,Joe E,Sibling
+James B,Doll B,Child
+James B,Milly B,Sibling
+James B,Patience A,Sibling
+James B,Patt A,Sibling
+Jenny F,George J,Sibling
+Jenny F,Lucy A,Child
+Jenny F,Natt A,Child
+Jesse B,Kate D,Sibling
+Jesse B,Lawrence B,Sibling
+Jesse B,Sall Twine,Child
+Joe A,Hannah B,Child
+Joe A,Ned B,Child
+Joe B,Priscilla A,Spouse
+Joe C,Sall Brass,Spouse
+Joe E,Flora A,Child
+Joe G,Daphne C,Child
+Joe G,Lucy D,Sibling
+Joe G,Moses B,Sibling
+John C,Betty A,Child
+John C,Lucretia A,Sibling
+Judith A,Frank I,Child
+Judy B,Alce C,Child
+Judy B,Charles Freeman,Child
+Judy B,Viner A,Sibling
+Kate A,Alce B,Child
+Kate A,Sam A,Child
+Kate B,Will C,Spouse
+Kate C,Alce B,Suspected Sibling
+Kate C,Kate B,Child
+Kate C,Molly B,Sibling
+Kate C,Virgin A,Sibling
+Kate C,Will C,Child
+Kate C,Will E,Sibling
+Kate D,Lawrence B,Sibling
+Kate D,Sall Twine,Child
+Lawrence A,Boatswain A,Child
+Lawrence A,Linny A,Sibling
+Lawrence A,Matilda A,Child
+Lawrence B,Sall Twine,Child
+Letty A,Isaac A,Child
+Letty A,Kitty A,Child
+Letty A,Lucy E,Sibling
+Letty A,Mima A,Sibling
+Letty A,Nancy E,Sibling
+Letty A,Sinah A,Sibling
+Letty B,Nathan A,Child
+Letty B,Peg A,Child
+Linny A,Boatswain A,Child
+Linny A,Matilda A,Child
+Lucretia A,Betty A,Child
+Lucy A,Natt A,Spouse
+Lucy C,Doll A,Child
+Lucy C,Perished Child - Doll (b. 1759),Sibling
+Lucy C,Peter C,Sibling
+Lucy C,Will C,Sibling
+Lucy D,Daphne C,Child
+Lucy D,Moses B,Sibling
+Lucy E,Isaac A,Child
+Lucy E,Kitty A,Child
+Lucy E,Mima A,Sibling
+Lucy E,Nancy E,Sibling
+Lucy E,Sinah A,Sibling
+Lydia C,Lett A,Child
+Marcus A,Charlotte A,Child
+Marcus A,Timothy A,Sibling
+Matilda B,Daphne B,Child
+Matilda B,Simms A,Child
+Mike A,Frank Lee,Child
+Mike A,Lucy C,Child
+Mike A,Phil A,Sibling
+Milly A,Cyrus A,Sibling
+Milly A,Sall A,Child
+Milly B,Doll B,Child
+Milly B,Patience A,Sibling
+Milly B,Patt A,Sibling
+Mima A,Isaac A,Child
+Mima A,Kitty A,Child
+Mima A,Nancy E,Sibling
+Mima A,Sinah A,Sibling
+Molly B,Kate B,Child
+Molly B,Virgin A,Sibling
+Molly B,Will C,Child
+Molly B,Will E,Sibling
+Moses A,Darcus A,Child
+Moses A,James A,Child
+Moses A,Townshend A,Sibling
+Moses B,Daphne C,Child
+Muclus A,Gunner A,Child
+Muclus A,Judy A,Child
+Nancy E,Isaac A,Child
+Nancy E,Kitty A,Child
+Nancy E,Sinah A,Sibling
+Nanny A,Tom A,Spouse
+Nathan A,Peg A,Spouse
+Natt C,Doll C,Child
+Natt C,Natt B,Child
+Ned A,Daniel F,Sibling
+Ned A,George J,Sibling
+Ned A,Jenny F,Sibling
+Ned A,Lucy A,Child
+Ned A,Natt A,Child
+Ned C,George A,Child
+Ned C,Lydia A,Child
+Ned C,Peter A,Sibling
+Ned C,Phoebe A,Sibling
+Oney Judge,Betty M,Child
+Paschall A,Cornelia A,Spouse
+Patience A,Doll B,Child
+Patience A,Patt A,Sibling
+Patt A,Doll B,Child
+Penny A,Ben D,Child
+Penny A,Peg B,Child
+Perished Child - Alce (b. 1782),Alce F,Child
+Perished Child - Alce (b. 1782),Delia A,Sibling
+Perished Child - Alce (b. 1782),Eve A,Sibling
+Perished Child - Alce (b. 1782),Hercules A,Child
+Perished Child - Alce (b. 1782),Richmond A,Sibling
+Perished Child - Alce (b. 1784),Alce C,Child
+Perished Child - Alce (b. 1784),Anna A,Sibling
+Perished Child - Alce (b. 1784),Charles Freeman,Child
+Perished Child - Alce (b. 1784),Christopher Sheels,Sibling
+Perished Child - Alce (b. 1784),Judy B,Sibling
+Perished Child - Alce (b. 1784),Viner A,Sibling
+Perished Child - Amy (b. 1785),Amy A,Child
+Perished Child - Betty (b. 1778),Betty A,Child
+Perished Child - Betty (b. 1778),Bill Langston,Sibling
+Perished Child - Betty (b. 1778),Gideon A,Sibling
+Perished Child - Betty (b. 1778),Godfrey A,Sibling
+Perished Child - Betty (b. 1778),Hanson A,Sibling
+Perished Child - Betty (b. 1778),John C,Sibling
+Perished Child - Betty (b. 1778),Lucretia A,Sibling
+Perished Child - Caroline (b. 1783),Caroline A,Child
+Perished Child - Caroline (b. 1783),Peter Hardman,Child
+Perished Child - Caroline (b. 1783),Wilson A,Sibling
+Perished Child - Doll (b. 1759),Doll A,Child
+Perished Child - Doll (b. 1777),Daniel A,Sibling
+Perished Child - Doll (b. 1777),Doll B,Child
+Perished Child - Doll (b. 1777),James B,Sibling
+Perished Child - Doll (b. 1777),Milly B,Sibling
+Perished Child - Doll (b. 1777),Patience A,Sibling
+Perished Child - Doll (b. 1777),Patt A,Sibling
+Perished Child - Doll (b. 1777),Perished Child - Doll (b. 1778),Sibling
+Perished Child - Doll (b. 1778),Daniel A,Sibling
+Perished Child - Doll (b. 1778),Doll B,Child
+Perished Child - Doll (b. 1778),James B,Sibling
+Perished Child - Doll (b. 1778),Milly B,Sibling
+Perished Child - Doll (b. 1778),Patience A,Sibling
+Perished Child - Doll (b. 1778),Patt A,Sibling
+Perished Child - Fanny (b. 1783),Charles A,Child
+Perished Child - Fanny (b. 1783),Fanny A,Child
+Perished Child - Joan (b. 1774),Agnes B,Sibling
+Perished Child - Joan (b. 1774),Ben E,Child
+Perished Child - Joan (b. 1774),Betty C,Sibling
+Perished Child - Joan (b. 1774),Joan A,Child
+Perished Child - Joan (b. 1774),Simon B,Sibling
+Perished Child - Peg (b. 1786),Forrester A,Sibling
+Perished Child - Peg (b. 1786),Letty B,Sibling
+Perished Child - Peg (b. 1786),Nathan A,Child
+Perished Child - Peg (b. 1786),Peg A,Child
+Peter A,George A,Child
+Peter A,Lydia A,Child
+Peter A,Phoebe A,Sibling
+Peter C,Doll A,Child
+Peter C,Perished Child - Doll (b. 1759),Sibling
+Phil A,Frank Lee,Child
+Phil A,Lucy C,Child
+Phoebe A,George A,Child
+Phoebe A,Lydia A,Child
+Richmond A,Alce F,Child
+Richmond A,Hercules A,Child
+Rose A,Suckey Bay,Child
+Sam Kitt,Unknown Person G,Spouse
+Sarah Flatfoot,Charity B,Child
+Sarah Flatfoot,Dick B,Child
+Savary A,Joe B,Child
+Savary A,Priscilla A,Child
+Savary A,Sophia A,Sibling
+Simon B,Ben E,Child
+Simon B,Joan A,Child
+Sinah A,Isaac A,Child
+Sinah A,Kitty A,Child
+Sophia A,Joe B,Child
+Sophia A,Priscilla A,Child
+Timothy A,Charlotte A,Child
+Townshend A,Darcus A,Child
+Townshend A,James A,Child
+Uriah A,Suckey B,Child
+Viner A,Alce C,Child
+Viner A,Charles Freeman,Child
+Virgin A,Kate B,Child
+Virgin A,Will C,Child
+Virgin A,Will E,Sibling
+Will C,Doll A,Child
+Will C,Perished Child - Doll (b. 1759),Sibling
+Will C,Peter C,Sibling
+Will D,Unknown Person L,Spouse
+Will E,Kate B,Child
+Will E,Will C,Child
+Will L,Barbara C,Child
+William Lee,Margaret Lee,Spouse
+Wilson A,Caroline A,Child
+Wilson A,Peter Hardman,Child
